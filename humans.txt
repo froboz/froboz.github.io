@@ -1,0 +1,9 @@
+/* TEAM */
+	Author: Christopher Karlsson
+	From:Kalmar, Sweden
+  
+/* SITE */
+	Last update:2018/11/19
+	Language: English
+	Doctype:HTML5
+	IDE: Visual Studio Code
