@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+headline: About
+tagline: Litegranna om mig själv
 ---
 
-Jag heter Christopher Karlsson och jag har hunnit med att göra ett par stycken sådana presentationssidor i ett antal kurser men det har inte blivit mindre tafatt för det.
-
+![Självporträtt](/assets/img/christopher3.png){: .image-left }Jag heter Christopher Karlsson och jag har hunnit med att göra ett par stycken sådana presentationssidor i ett antal kurser men det har inte blivit mindre tafatt för det.
 Föddes 87, fick upp ett intresse för datorer när jag var 5, bestämde mig för att jag ville bli spelutvecklare, gjorde ett par spel till examensprojektet i gymnasiet, fortsatte
 sedan att gå högskoleingenjör med inriktning mot spelutveckling efteråt men brände ut mig och spenderade några år i limbo medan jag försökte få ordning på mitt liv. Till sist
 fick jag jobb som It-Tekniker, på den firman har jag sedemera också börjat jobba som fullstack devloper och har utvecklat både webbsidor och applikationer, både externt och internt.
